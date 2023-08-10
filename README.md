@@ -2,7 +2,7 @@
 ## Hello World! 👋
 
 ### Integrantes
-= [Felipy Alves Roma](https://github.com/felipyroma)
+- [Felipy Alves Roma](https://github.com/felipyroma)
 - [Jonatas Fernandes Da Silva Santos](https://github.com/jofsan)
 - [Leonardo Brito de Oliviera](https://github.com/leobr1t0)
 - [Marcelo Alcantara Cruz Jr.](https://github.com/MarceloACJunior)
