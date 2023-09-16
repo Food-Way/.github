@@ -31,7 +31,7 @@ Agradecemos pela compreensão e pelo apoio à nossa iniciativa.
 
 ## Equipe
 
-Nossa organização é composta por uma equipe dedicada de desenvolvedores, designers. Estamos comprometidos em criar uma plataforma de avaliações de restaurantes confiável e valiosa para todos os amantes da comida.
+Nossa organização é composta por uma equipe dedicada de desenvolvedores. Estamos comprometidos em criar uma plataforma de avaliações de restaurantes confiável e valiosa para todos os amantes da comida.
 
 - [Felipy Alves Roma](https://github.com/felipyroma)
 - [Jonatas Fernandes Da Silva Santos](https://github.com/jofsan)
