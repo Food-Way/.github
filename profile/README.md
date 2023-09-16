@@ -1,5 +1,8 @@
-# FoodWay - Avaliações de Restaurantes e Apoio à Tomada de Decisões
+<div align="center">
+  <img src="https://gcdnb.pbrd.co/images/4OXTZqrRq5pm.png?o=1" alt="Logo do FoodWay">
+</div>
 
+# FoodWay - Avaliações de Restaurantes e Apoio à Tomada de Decisões
 Bem-vindo à nossa organização de desenvolvimento no GitHub, onde estamos comprometidos em criar o projeto FoodWay, uma aplicação que oferece avaliações detalhadas e confiáveis sobre restaurantes. Nosso objetivo é ajudar os clientes a tomar decisões informadas ao escolher onde comer, seja para um encontro, jantar em família ou uma nova experiência gastronômica. Além disso, também auxiliamos os estabelecimentos a tomar decisões com base nas avaliações de seus clientes.
 
 ## Visão Geral do Projeto
