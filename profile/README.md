@@ -43,7 +43,7 @@ Nossa organização é composta por uma equipe dedicada de desenvolvedores. Esta
 
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE.md) - consulte o arquivo LICENSE.md para obter detalhes.
+Este projeto é licenciado sob a [Licença MIT](API/LICENSE.md) - consulte o arquivo LICENSE.md para obter detalhes.
 
 Obrigado por se juntar a nós nesta jornada para tornar as escolhas de restaurantes mais informadas e deliciosas! Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato conosco.
 
