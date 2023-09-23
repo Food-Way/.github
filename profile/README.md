@@ -43,7 +43,7 @@ Nossa organização é composta por uma equipe dedicada de desenvolvedores. Esta
 
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](API/LICENSE.md) - consulte o arquivo LICENSE.md para obter detalhes.
+Este projeto é licenciado sob a [Licença MIT]([API/LICENSE.md](https://github.com/Food-Way/Backend/blob/c758e2dc94f9f254ff1ed976d0c6a206ad72657d/API/LICENSE)) - consulte o arquivo LICENSE.md para obter detalhes.
 
 Obrigado por se juntar a nós nesta jornada para tornar as escolhas de restaurantes mais informadas e deliciosas! Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato conosco.
 
